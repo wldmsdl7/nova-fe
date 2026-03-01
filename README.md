@@ -1,8 +1,8 @@
 # 🌟 NOVA
 
 ## ✍ 프로젝트 소개
+<img width="663" height="341" alt="image" src="https://github.com/user-attachments/assets/65ced785-9efa-44a4-9e19-2c9effb0a4f5" />
 
-<img width="867" height="326" alt="image" src="https://github.com/user-attachments/assets/9ac0f35a-41d0-4196-b2d3-7d1fa462db69" />
 
 ---
 
