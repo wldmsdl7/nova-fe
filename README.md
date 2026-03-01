@@ -1,4 +1,7 @@
 # 🌟 NOVA
+> 본 레포지토리는 UMC 9기 프로젝트 NOVA를 mirror clone하여 생성된 레포지토리입니다.
+
+<br>
 
 ## ✍ 프로젝트 소개
 <img width="663" height="341" alt="image" src="https://github.com/user-attachments/assets/65ced785-9efa-44a4-9e19-2c9effb0a4f5" />
